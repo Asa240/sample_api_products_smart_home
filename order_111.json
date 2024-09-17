@@ -1,0 +1,40 @@
+{
+    "order_id": "111",
+    "products": [
+        {
+            "category": "Security Camera",
+            "name": "EcoSync Indoor Security Camera",
+            "id": "C5001",
+            "price": 129.99,
+            "description": "A smart security camera with motion detection and energy-saving standby mode.",
+            "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX82GD64PKQXX4MJ52BPH"
+        },
+        {
+            "category": "Door Lock",
+            "name": "EcoSync Pro Door Lock",
+            "id": "D6002",
+            "price": 199.99,
+            "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition.",
+            "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX9EHX85RH8K8GVX8CHQX"
+        },
+        {
+            "category": "Thermostat",
+            "name": "EcoSync Pro Thermostat",
+            "id": "T1002",
+            "price": 299.99,
+            "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access.",
+            "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WXWA6CQ0PXWSTJEQQDV8E"
+        }
+    ],
+    "purchase_date": "2024-08-30",
+    "shipping_status": "Shipped",
+    "shipping_tracking_number": "TRACK-559777",
+    "shipping_address": {
+        "street": "894 Main St",
+        "city": "Sample City",
+        "state": "CA",
+        "postal_code": "97116",
+        "country": "USA"
+    },
+    "payment_status": "Failed"
+}
