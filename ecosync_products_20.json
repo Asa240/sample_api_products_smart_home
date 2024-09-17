@@ -1,0 +1,142 @@
+[
+    {
+        "category": "Thermostat",
+        "name": "EcoSync Smart Thermostat",
+        "id": "T1001",
+        "price": 249.99,
+        "description": "An energy-efficient smart thermostat that adapts to your home\u2019s energy needs."
+    },
+    {
+        "category": "Thermostat",
+        "name": "EcoSync Pro Thermostat",
+        "id": "T1002",
+        "price": 299.99,
+        "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access."
+    },
+    {
+        "category": "Smart Plug",
+        "name": "EcoSync Energy Monitor Plug",
+        "id": "P2001",
+        "price": 39.99,
+        "description": "A smart plug that tracks and monitors energy usage for connected devices."
+    },
+    {
+        "category": "Smart Plug",
+        "name": "EcoSync Outdoor Smart Plug",
+        "id": "P2002",
+        "price": 49.99,
+        "description": "A weather-resistant smart plug for outdoor energy monitoring and control."
+    },
+    {
+        "category": "Energy Monitor",
+        "name": "EcoSync Home Energy Monitor",
+        "id": "E3001",
+        "price": 199.99,
+        "description": "A comprehensive energy monitor that provides real-time energy consumption data."
+    },
+    {
+        "category": "Energy Monitor",
+        "name": "EcoSync Solar Energy Monitor",
+        "id": "E3002",
+        "price": 299.99,
+        "description": "A solar-compatible energy monitor for tracking energy generation and consumption."
+    },
+    {
+        "category": "Lighting",
+        "name": "EcoSync Smart LED Bulb",
+        "id": "L4001",
+        "price": 19.99,
+        "description": "A smart LED bulb that offers energy-efficient lighting with remote control features."
+    },
+    {
+        "category": "Lighting",
+        "name": "EcoSync Color Smart Bulb",
+        "id": "L4002",
+        "price": 29.99,
+        "description": "A color-changing smart LED bulb that allows personalized lighting settings."
+    },
+    {
+        "category": "Lighting",
+        "name": "EcoSync Smart Light Strip",
+        "id": "L4003",
+        "price": 59.99,
+        "description": "A smart light strip with energy-efficient LEDs and customizable color options."
+    },
+    {
+        "category": "Security Camera",
+        "name": "EcoSync Indoor Security Camera",
+        "id": "C5001",
+        "price": 129.99,
+        "description": "A smart security camera with motion detection and energy-saving standby mode."
+    },
+    {
+        "category": "Security Camera",
+        "name": "EcoSync Outdoor Security Camera",
+        "id": "C5002",
+        "price": 199.99,
+        "description": "A weatherproof outdoor security camera with night vision and remote monitoring."
+    },
+    {
+        "category": "Security Camera",
+        "name": "EcoSync Smart Doorbell Camera",
+        "id": "C5003",
+        "price": 179.99,
+        "description": "A smart doorbell camera with video monitoring, motion alerts, and two-way communication."
+    },
+    {
+        "category": "Door Lock",
+        "name": "EcoSync Smart Door Lock",
+        "id": "D6001",
+        "price": 149.99,
+        "description": "A smart door lock with remote control and voice command compatibility."
+    },
+    {
+        "category": "Door Lock",
+        "name": "EcoSync Pro Door Lock",
+        "id": "D6002",
+        "price": 199.99,
+        "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition."
+    },
+    {
+        "category": "Thermostat",
+        "name": "EcoSync Budget Thermostat",
+        "id": "T1003",
+        "price": 129.99,
+        "description": "A budget-friendly smart thermostat with basic energy-saving features."
+    },
+    {
+        "category": "Security System",
+        "name": "EcoSync Home Security System",
+        "id": "S7001",
+        "price": 299.99,
+        "description": "A comprehensive home security system with cameras, sensors, and smart alarm integration."
+    },
+    {
+        "category": "Security System",
+        "name": "EcoSync Security Hub",
+        "id": "S7002",
+        "price": 199.99,
+        "description": "A smart security hub that connects cameras, sensors, and alarms for centralized control."
+    },
+    {
+        "category": "Smart Appliance",
+        "name": "EcoSync Smart Air Purifier",
+        "id": "A8001",
+        "price": 229.99,
+        "description": "An energy-efficient smart air purifier with air quality monitoring and automatic adjustments."
+    },
+    {
+        "category": "Smart Appliance",
+        "name": "EcoSync Smart Humidifier",
+        "id": "A8002",
+        "price": 99.99,
+        "description": "A smart humidifier with remote control and energy-saving moisture control."
+    },
+    {
+        "category": "Subscription",
+        "name": "EcoSync Energy Savings Plan",
+        "id": "S6001",
+        "price": 9.99,
+        "description": "A monthly subscription plan that optimizes energy usage and provides detailed reports."
+    }
+]
