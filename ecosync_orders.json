@@ -8,7 +8,7 @@
                 "id": "C5001",
                 "price": 129.99,
                 "description": "A smart security camera with motion detection and energy-saving standby mode.",
-                "thumbnail": "https://example.com/images/C5001_thumbnail.jpg"
+                "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX82GD64PKQXX4MJ52BPH"
             },
             {
                 "category": "Door Lock",
@@ -16,7 +16,7 @@
                 "id": "D6002",
                 "price": 199.99,
                 "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition.",
-                "thumbnail": "https://example.com/images/D6002_thumbnail.jpg"
+                "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX9EHX85RH8K8GVX8CHQX"
             },
             {
                 "category": "Thermostat",
@@ -24,7 +24,7 @@
                 "id": "T1002",
                 "price": 299.99,
                 "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access.",
-                "thumbnail": "https://example.com/images/T1002_thumbnail.jpg"
+                "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WXWA6CQ0PXWSTJEQQDV8E"
             }
         ],
         "purchase_date": "2024-08-30",
@@ -48,7 +48,7 @@
                 "id": "T1001",
                 "price": 249.99,
                 "description": "An energy-efficient smart thermostat that adapts to your home\u2019s energy needs.",
-                "thumbnail": "https://example.com/images/T1001_thumbnail.jpg"
+                "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WXWA6CQ0PXWSTJEQQDV8E"
             },
             {
                 "category": "Smart Plug",
@@ -56,7 +56,7 @@
                 "id": "P2001",
                 "price": 39.99,
                 "description": "A smart plug that tracks and monitors energy usage for connected devices.",
-                "thumbnail": "https://example.com/images/P2001_thumbnail.jpg"
+                "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80X18GY04GZSC778XSYBB97"
             },
             {
                 "category": "Security Camera",
@@ -64,7 +64,7 @@
                 "id": "C5003",
                 "price": 179.99,
                 "description": "A smart doorbell camera with video monitoring, motion alerts, and two-way communication.",
-                "thumbnail": "https://example.com/images/C5003_thumbnail.jpg"
+                "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX82GD64PKQXX4MJ52BPH"
             }
         ],
         "purchase_date": "2024-09-15",
