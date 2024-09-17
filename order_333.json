@@ -1,0 +1,40 @@
+{
+    "order_id": "333",
+    "products": [
+        {
+            "category": "Lighting",
+            "name": "EcoSync Smart Light Strip",
+            "id": "L4003",
+            "price": 59.99,
+            "description": "A smart light strip with energy-efficient LEDs and customizable color options.",
+            "thumbnail": "https://example.com/images/L4003_thumbnail.jpg"
+        },
+        {
+            "category": "Security Camera",
+            "name": "EcoSync Indoor Security Camera",
+            "id": "C5001",
+            "price": 129.99,
+            "description": "A smart security camera with motion detection and energy-saving standby mode.",
+            "thumbnail": "https://example.com/images/C5001_thumbnail.jpg"
+        },
+        {
+            "category": "Smart Plug",
+            "name": "EcoSync Energy Monitor Plug",
+            "id": "P2001",
+            "price": 39.99,
+            "description": "A smart plug that tracks and monitors energy usage for connected devices.",
+            "thumbnail": "https://example.com/images/P2001_thumbnail.jpg"
+        }
+    ],
+    "purchase_date": "2024-09-01",
+    "shipping_status": "In Transit",
+    "shipping_tracking_number": "TRACK-990380",
+    "shipping_address": {
+        "street": "810 Main St",
+        "city": "Sample City",
+        "state": "CA",
+        "postal_code": "98981",
+        "country": "USA"
+    },
+    "payment_status": "Failed"
+}
