@@ -7,7 +7,7 @@
             "id": "C5001",
             "price": 129.99,
             "description": "A smart security camera with motion detection and energy-saving standby mode.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/camera.png"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/camera.png?raw=true"
         },
         {
             "category": "Smart Plug",
@@ -15,7 +15,7 @@
             "id": "P2001",
             "price": 39.99,
             "description": "A smart plug that tracks and monitors energy usage for connected devices.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/plug.png"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/plug.png?raw=true"
         }
     ],
     "purchase_date": "2024-09-01",
