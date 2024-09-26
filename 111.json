@@ -15,7 +15,6 @@
             "id": "D6002",
             "price": 199.99,
             "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/lock.png?raw=true"
         },
         {
             "category": "Thermostat",
@@ -23,7 +22,6 @@
             "id": "T1002",
             "price": 299.99,
             "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/thermostat.png?raw=true"
         }
     ],
     "purchase_date": "2024-08-30",
