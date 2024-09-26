@@ -2,20 +2,12 @@
     "order_id": "333",
     "products": [
         {
-            "category": "Lighting",
-            "name": "EcoSync Smart Light Strip",
-            "id": "L4003",
-            "price": 59.99,
-            "description": "A smart light strip with energy-efficient LEDs and customizable color options.",
-            "thumbnail": "https://example.com/images/L4003_thumbnail.jpg"
-        },
-        {
             "category": "Security Camera",
             "name": "EcoSync Indoor Security Camera",
             "id": "C5001",
             "price": 129.99,
             "description": "A smart security camera with motion detection and energy-saving standby mode.",
-            "thumbnail": "https://example.com/images/C5001_thumbnail.jpg"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/camera.png"
         },
         {
             "category": "Smart Plug",
@@ -23,7 +15,7 @@
             "id": "P2001",
             "price": 39.99,
             "description": "A smart plug that tracks and monitors energy usage for connected devices.",
-            "thumbnail": "https://example.com/images/P2001_thumbnail.jpg"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/plug.png"
         }
     ],
     "purchase_date": "2024-09-01",
