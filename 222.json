@@ -7,7 +7,7 @@
             "id": "T1001",
             "price": 249.99,
             "description": "An energy-efficient smart thermostat that adapts to your home\u2019s energy needs.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/thermostat.png"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/thermostat.png?raw=true"
         },
         {
             "category": "Smart Plug",
@@ -15,7 +15,7 @@
             "id": "P2001",
             "price": 39.99,
             "description": "A smart plug that tracks and monitors energy usage for connected devices.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/plug.png"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/plug.png?raw=true"
         },
         {
             "category": "Security Camera",
@@ -23,7 +23,7 @@
             "id": "C5003",
             "price": 179.99,
             "description": "A smart doorbell camera with video monitoring, motion alerts, and two-way communication.",
-            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/doorbell.png"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/doorbell.png?raw=true"
         }
     ],
     "purchase_date": "2024-09-15",
