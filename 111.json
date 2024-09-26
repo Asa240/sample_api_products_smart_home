@@ -7,7 +7,7 @@
             "id": "C5001",
             "price": 129.99,
             "description": "A smart security camera with motion detection and energy-saving standby mode.",
-            "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX82GD64PKQXX4MJ52BPH"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/camera.png"
         },
         {
             "category": "Door Lock",
@@ -15,7 +15,7 @@
             "id": "D6002",
             "price": 199.99,
             "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition.",
-            "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WX9EHX85RH8K8GVX8CHQX"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/lock.png"
         },
         {
             "category": "Thermostat",
@@ -23,7 +23,7 @@
             "id": "T1002",
             "price": 299.99,
             "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access.",
-            "thumbnail": "https://z3n-aismedev.zendesk-staging.com/hc/theming_assets/01J80WXWA6CQ0PXWSTJEQQDV8E"
+            "thumbnail": "https://github.com/Asa240/sample_apis/blob/main/thermostat.png"
         }
     ],
     "purchase_date": "2024-08-30",
