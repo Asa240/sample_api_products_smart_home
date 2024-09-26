@@ -14,14 +14,14 @@
             "name": "EcoSync Pro Door Lock",
             "id": "D6002",
             "price": 199.99,
-            "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition.",
+            "description": "A professional-grade smart lock with enhanced security features and fingerprint recognition."
         },
         {
             "category": "Thermostat",
             "name": "EcoSync Pro Thermostat",
             "id": "T1002",
             "price": 299.99,
-            "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access.",
+            "description": "A professional-grade thermostat with advanced energy-saving algorithms and remote access."
         }
     ],
     "purchase_date": "2024-08-30",
